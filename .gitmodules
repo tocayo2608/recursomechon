@@ -1,0 +1,3 @@
+[submodule "salaslibre"]
+	path = salaslibre
+	url = https://github.com/tocayo2608/salaslibre.git
