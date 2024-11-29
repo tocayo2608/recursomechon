@@ -1,3 +1,6 @@
 [submodule "salaslibre"]
 	path = salaslibre
 	url = https://github.com/tocayo2608/salaslibre.git
+[submodule "INF134-Data-Structures"]
+	path = INF134-Data-Structures
+	url = https://github.com/tocayo2608/INF134-Data-Structures.git
